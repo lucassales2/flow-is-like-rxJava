@@ -1,9 +1,9 @@
 
-# Swift is like Kotlin
+# Flow is like RxJava
 
-Page: http://nilhcem.github.io/swift-is-like-kotlin/
+Page: TODO
 
-Programmatically inspired from [swift-is-like-go](https://github.com/jiyinyiyong/swift-is-like-go) and visually inspired from [swiftislikescala](https://github.com/leverich/swiftislikescala)
+Forked from [swift-is-like-kotlin](swift-is-like-kotlin) 
 
 ### License
 
